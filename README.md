@@ -3,8 +3,8 @@
 The repository contains an attempt to build a prediction whether income exceeded $50k\year based on census data.
 <ul>
   <li>Task: binary classification;</li>
-  <li>Algorithmts to use: RandomForestClassifier, LogisticRegression, CatBoostClassifier, GaussianNB</li>
-  <li>Measures: ROC AUC score, Accuracy</li>
+  <li>Algorithmts to use: RandomForestClassifier, LogisticRegression, CatBoostClassifier, GaussianNB;</li>
+  <li>Measures: ROC AUC score, Accuracy.</li>
 </ul>
 
 The data were scaled by Standard Scaler. The categorical features were encoded with Ordinal, OneHot encoders.\
