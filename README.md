@@ -1,1 +1,1 @@
-# adult-classification
+# classification adult dataset
